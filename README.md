@@ -1,101 +1,73 @@
-<h1 align="center">Hi 👋, I'm Avdhut Thorat</h1>
-<h3 align="center">M.Tech Data Sciences @ COEP Technological University | ML/AI Engineer | Full Stack Developer</h3>
+<h1 align="center">Avdhut Thorat</h1>
+<p align="center"><b>Backend & Systems Engineer</b> · Go · C++ · Distributed Systems</p>
+<p align="center">
+  M.Tech Data Sciences @ COEP Tech (2025–2027) · Software Engineer Intern @ Siemens Digital Industries Software (Altair)
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avdhut-thorat-17&label=Profile%20views&color=0e75b6&style=flat" alt="avdhut-thorat-17" />
+  <a href="mailto:adthorat34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/avdhut-thorat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/avdhut-thorat-17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About
 
-- 🎓 Pursuing **M.Tech in Data Sciences** at COEP Technological University (2025–2027)
-- 💼 Ex **Software Developer Intern** at Techonsy Software Pvt. Ltd — built RAG systems & Next.js apps
-- 🔭 Currently working on **Real-Time Fraud Detection** (Kafka + XGBoost + MLflow)
-- 🛸 Built **SkyWatch** — an AI-powered autonomous drone response system using YOLOv8 & FastAPI
-- 🌱 Deep-diving into **Deep Learning, LLMs, and Data Infrastructure (Spark, Kafka, Airflow)**
-- 💬 Ask me about **Python, ML/AI, RAG, React, FastAPI**
-- 📫 Reach me at **adthorat34@gmail.com**
-- ⚡ **600+ DSA problems** solved on LeetCode & GeeksForGeeks
+I build backend systems where concurrency, scheduling and failure handling matter.
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**ML / AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Data / Infrastructure**
-
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Web / Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+- **Now:** Software Engineer Intern at Siemens Digital Industries Software (Altair), Bangalore. I work on HPC workload management and license monitoring, using Go microservices, Kubernetes, AWS EC2 and Redis.
+- **Studying:** M.Tech in Data Sciences at COEP Technological University. My dissertation is on forecasting demand for floating software licenses.
+- **Strengths:** OS internals, multithreading, C++ and Go concurrency, and production ML pipelines.
+- **Practice:** 600+ DSA problems on LeetCode and GeeksforGeeks.
+- **Open to:** backend / systems / infrastructure engineering roles.
 
 ---
 
-### 📌 Featured Projects
+### Tech Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🛡️ **Real-Time Fraud Detection** | Kafka streaming + XGBoost/LightGBM for transaction risk scoring; MLflow tracking + drift detection + Redis caching | Kafka, XGBoost, MLflow, Redis, Docker |
-| 🤖 **Code Helper AI** | RAG app for natural language queries over codebases | HuggingFace, Qdrant, Next.js, OpenAI, Docker |
-| 📈 **StockNewsAnalyzer** | Full-stack platform for ML-powered stock news sentiment analysis | Flask, React, PostgreSQL, NLTK, Celery, Redis |
-| 🚁 **SkyWatch** | Autonomous drone response system with YOLOv8 multi-zone detection & real-time dashboard | YOLOv8, FastAPI, React, WebSockets, Leaflet.js |
+**Core:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Infrastructure:** ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-### 🏆 Achievements
-
-- 🥇 **Winner** — Sumedh Technical Event, Amrutvahini College of Engineering (Feb 2024)
-- 💻 **600+ DSA problems** solved on LeetCode & GeeksForGeeks
-- 📜 **GATE CSE 2025** — Score: 402 / 1000
-- 📜 Certified: **Crash Course on Python** (Google) | **Getting Started with AI** (IBM)
+**ML / Data:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**image-pipeline**](https://github.com/avdhut-thorat-17/image-pipeline) | Image processing server with bounded concurrency: a fixed worker pool and back-pressure keep memory and CPU predictable under load | Go |
+| [**Real-Time Fraud Detection**](https://github.com/avdhut-thorat-17/Fraud_Detection_System) | Kafka streaming pipeline scoring transactions with XGBoost/LightGBM at 700 txns/sec, p99 under 30 ms. Redis feature cache, MLflow tracking, drift detection, automated retraining | Python, Kafka, Redis, MLflow, Docker |
+| **SkyWatch** | Urban drone safety platform with YOLOv8 multi-zone detection and a real-time dashboard. Built for the INSPIRON 5.0 national hackathon | YOLOv8, FastAPI, React, WebSockets |
+| **Code Helper AI** | RAG app for natural-language questions over codebases | Next.js, Qdrant, HuggingFace, OpenAI |
+
+<!--
+Add this row once the repo is public and the numbers are reproducible:
+| [**Distributed Job Scheduler**](LINK) | Priority scheduler with heap-based queue, goroutine worker pool, gRPC worker registration, heartbeat failure detection with job requeue, BoltDB persistence | Go, gRPC, BoltDB, Prometheus |
+-->
+
+---
+
+### Experience
+
+**Software Engineer Intern — Siemens Digital Industries Software (Altair)** · Bangalore · Jul 2026 – present
+Backend work on HPC workload management and license monitoring tooling. Go microservices on Kubernetes and AWS, with Redis.
+
+**Software Developer Intern — Techonsy Software Pvt. Ltd**
+Built RAG systems and Next.js applications.
+
+---
+
+### Highlights
+
+- Winner, Sumedh Technical Event, Amrutvahini College of Engineering (Feb 2024)
+- 600+ DSA problems solved
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdhut-thorat-17&show_icons=true&theme=tokyonight&locale=en" alt="avdhut-thorat-17" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avdhut-thorat-17&theme=tokyonight" alt="avdhut-thorat-17" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdhut-thorat-17&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="avdhut-thorat-17" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="mailto:adthorat34@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/avdhut-thorat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/avdhut-thorat-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/avdhut-thorat-17"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=avdhut-thorat-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdhut-thorat-17&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
